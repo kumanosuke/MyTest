@@ -1,3 +1,3 @@
 <script>
-alert('master')
+alert('master');
 </script>
